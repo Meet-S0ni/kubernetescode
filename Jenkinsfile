@@ -3,7 +3,6 @@ node {
 
     stage('Clone repository') {
       
-
         checkout scm
     }
 
@@ -14,7 +13,6 @@ node {
 
     stage('Test image') {
   
-
         app.inside {
             sh 'echo "Tests passed"'
         }
