@@ -3,4 +3,4 @@
 This ci part of pipeline 
 
 for cd part please visit :
-https://github.com/MeetSon1/kubernetesmanifest
+https://github.com/Meet-S0ni/kubernetesmanifest
