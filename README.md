@@ -1,16 +1,8 @@
-
 # GitOps Project
 
 #### In this project we are going use combination of jenkins , git , github, docker , kubernetes and argocd, To deploy our python web application on to kubernetes cluster 
 
-
-
-
-
-
 ## PipeLine Flow
-
-
 
 `1. Developer will push the code to github `
 
@@ -23,7 +15,6 @@
 `5. Jenkins will retag the image with new image tag on github deployment file`
 
 `6. Argocd will deploy deployments/pods and service from that deployment file to the kubernetes cluster `
-
 
 ## Steps 
 
@@ -118,7 +109,6 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
   - click `create`
   - first argocd will deploy application as per github manifests 
       
-    
 **Step: 10**
 - install git-github to your vm
 - authanticate with your repo using pat
@@ -126,15 +116,10 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
 - make changes in your code and push it to your repository
 - check that it is deploying ( updating ) application or not
 
-
-
-
-
 ### Feedback and suggestions are highly appreciated
 
 Feel free to reach out with any comments or improvements you might have. Thank you for taking the time to explore our GitOps project!"  
 https://github.com/Meet-S0ni#connect-with-me
-
 
 ## 
 
@@ -142,5 +127,6 @@ Here are some related Repos to get started
 
 - [Argocd doccumentation](https://argo-cd.readthedocs.io/en/stable/getting_started) 
 - [Kubernetescode](https://github.com/Meet-S0ni/kubernetescode)
-- [Kubernetesmanifest](https://github.com/Meet-S0ni/kubernetesmanifest)   
-special thanks to [saha-rajdeep](https://github.com/saha-rajdeep )
+- [Kubernetesmanifest](https://github.com/Meet-S0ni/kubernetesmanifest)
+- [saha-rajdeep](https://github.com/saha-rajdeep )
+ 
