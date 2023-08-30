@@ -1,6 +1,6 @@
 # GitOps Project
 
-#### In this project we are going use combination of jenkins , git , github, docker , kubernetes and argocd, To deploy our python web application on to kubernetes cluster 
+#### In this project, we'll combine Jenkins, Git, GitHub, Docker, Kubernetes, and ArgoCD to deploy our Python web application onto a Kubernetes cluster.
 
 ## PipeLine Flow
 
