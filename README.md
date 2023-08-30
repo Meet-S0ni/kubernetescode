@@ -142,5 +142,5 @@ Here are some related Repos to get started
 
 - [Argocd doccumentation](https://argo-cd.readthedocs.io/en/stable/getting_started) 
 - [Kubernetescode](https://github.com/Meet-S0ni/kubernetescode)
-- [Kubernetesmanifest](https://github.com/Meet-S0ni/kubernetesmanifest)
+- [Kubernetesmanifest](https://github.com/Meet-S0ni/kubernetesmanifest)   
 special thanks to [saha-rajdeep](https://github.com/saha-rajdeep )
