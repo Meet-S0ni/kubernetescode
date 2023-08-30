@@ -6,7 +6,7 @@
 
 `1. Developer will push the code to github `
 
-`2. Jenkins will clone the repository to jenkins environment after that,`
+`2. Jenkins will clone the repository to jenkins environment ,`
 
 `3. jenkins will Build docker image using Dockerfile that was attached with code,`
 
@@ -14,7 +14,7 @@
 
 `5. Jenkins will retag the image with new image tag on github deployment file`
 
-`6. Argocd will deploy deployments/pods and service from that deployment file to the kubernetes cluster `
+`6. Argocd will deploy deployments/pods and service from that manifests files to the kubernetes cluster `
 
 ## Steps 
 
