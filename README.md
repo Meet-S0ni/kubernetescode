@@ -16,6 +16,8 @@
 
 `6. Argocd will deploy deployments/pods and service from that manifests files to the kubernetes cluster `
 
+![alt text](https://github.com/Meet-S0ni/kubernetescode/blob/main/flow.png)
+
 ## Steps 
 
 **Step: 1** 
